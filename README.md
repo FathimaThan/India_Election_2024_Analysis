@@ -1,5 +1,5 @@
 # India Election 2024 🗳️
-
+<img src="Chart.png" alt="image" width="750" height="360">
 This project analyzes the complete results of the 2024 Lok Sabha Elections, sourced from the Election Commission of India's official website and available on Kaggle. The dataset provides comprehensive insights into the election outcomes, featuring details of each parliamentary constituency, leading candidates, their parties, margin of victory, and result status.
 
 ## 📊 Dataset Description
