@@ -26,6 +26,16 @@ The objective of this project is to conduct an in-depth analysis of the election
 1. **Data Collection:** Obtained dataset from Kaggle.
 2. **Data Preprocessing and EDA:** Cleaned data and performed exploratory data analysis.
 3. **Data Visualization:** Visualized insights using graphs and charts.
+4. 
+## Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ## 🔗 Kaggle Dataset Link
 [Kaggle Dataset - India Election 2024](https://www.kaggle.com/datasets/nuhmanpk/india-lok-sabha-election-results-2024/data)
+
+## Author
+
+Fathima Thanseeha
+
+#### 🚀Feel free to explore the interactive project in Google Colab: [Open in Google Colab](https://colab.research.google.com/drive/1mVnPRAy6NMRVvcZztvMAQWb5AaPREite#scrollTo=m_NoqI53HirW)
+
